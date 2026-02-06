@@ -1,0 +1,51 @@
+image_path,text,prompt,source
+./data/synthetic\synth_0000.png,RESTROOM,A sign with the text 'RESTROOM',synthetic
+./data/synthetic\synth_0001.png,DANGER,A sign with the text 'DANGER',synthetic
+./data/synthetic\synth_0002.png,NO SMOKING,A sign with the text 'NO SMOKING',synthetic
+./data/synthetic\synth_0003.png,PRIVATE,A sign with the text 'PRIVATE',synthetic
+./data/synthetic\synth_0004.png,DANGER,A sign with the text 'DANGER',synthetic
+./data/synthetic\synth_0005.png,DANGER,A sign with the text 'DANGER',synthetic
+./data/synthetic\synth_0006.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
+./data/synthetic\synth_0007.png,ENTRANCE,A sign with the text 'ENTRANCE',synthetic
+./data/synthetic\synth_0008.png,CLOSED,A sign with the text 'CLOSED',synthetic
+./data/synthetic\synth_0009.png,HOTEL,A sign with the text 'HOTEL',synthetic
+./data/synthetic\synth_0010.png,OPEN,A sign with the text 'OPEN',synthetic
+./data/synthetic\synth_0011.png,OUT OF ORDER,A sign with the text 'OUT OF ORDER',synthetic
+./data/synthetic\synth_0012.png,HELP,A sign with the text 'HELP',synthetic
+./data/synthetic\synth_0013.png,CAUTION,A sign with the text 'CAUTION',synthetic
+./data/synthetic\synth_0014.png,SALE 50% OFF,A sign with the text 'SALE 50% OFF',synthetic
+./data/synthetic\synth_0015.png,FIRE EXIT,A sign with the text 'FIRE EXIT',synthetic
+./data/synthetic\synth_0016.png,NO ENTRY,A sign with the text 'NO ENTRY',synthetic
+./data/synthetic\synth_0017.png,NO SMOKING,A sign with the text 'NO SMOKING',synthetic
+./data/synthetic\synth_0018.png,CLOSED,A sign with the text 'CLOSED',synthetic
+./data/synthetic\synth_0019.png,CAUTION,A sign with the text 'CAUTION',synthetic
+./data/synthetic\synth_0020.png,OPEN,A sign with the text 'OPEN',synthetic
+./data/synthetic\synth_0021.png,FIRE EXIT,A sign with the text 'FIRE EXIT',synthetic
+./data/synthetic\synth_0022.png,EXIT,A sign with the text 'EXIT',synthetic
+./data/synthetic\synth_0023.png,OPEN,A sign with the text 'OPEN',synthetic
+./data/synthetic\synth_0024.png,TICKET,A sign with the text 'TICKET',synthetic
+./data/synthetic\synth_0025.png,CAUTION,A sign with the text 'CAUTION',synthetic
+./data/synthetic\synth_0026.png,NO ENTRY,A sign with the text 'NO ENTRY',synthetic
+./data/synthetic\synth_0027.png,PHARMACY,A sign with the text 'PHARMACY',synthetic
+./data/synthetic\synth_0028.png,FLOOR 1,A sign with the text 'FLOOR 1',synthetic
+./data/synthetic\synth_0029.png,INFORMATION,A sign with the text 'INFORMATION',synthetic
+./data/synthetic\synth_0030.png,AVAILABLE,A sign with the text 'AVAILABLE',synthetic
+./data/synthetic\synth_0031.png,ENTRANCE,A sign with the text 'ENTRANCE',synthetic
+./data/synthetic\synth_0032.png,HOSPITAL,A sign with the text 'HOSPITAL',synthetic
+./data/synthetic\synth_0033.png,DANGER,A sign with the text 'DANGER',synthetic
+./data/synthetic\synth_0034.png,CLOSED,A sign with the text 'CLOSED',synthetic
+./data/synthetic\synth_0035.png,THANK YOU,A sign with the text 'THANK YOU',synthetic
+./data/synthetic\synth_0036.png,PLEASE WAIT,A sign with the text 'PLEASE WAIT',synthetic
+./data/synthetic\synth_0037.png,WELCOME,A sign with the text 'WELCOME',synthetic
+./data/synthetic\synth_0038.png,HOSPITAL,A sign with the text 'HOSPITAL',synthetic
+./data/synthetic\synth_0039.png,SALE 50% OFF,A sign with the text 'SALE 50% OFF',synthetic
+./data/synthetic\synth_0040.png,FLOOR 1,A sign with the text 'FLOOR 1',synthetic
+./data/synthetic\synth_0041.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
+./data/synthetic\synth_0042.png,OCCUPIED,A sign with the text 'OCCUPIED',synthetic
+./data/synthetic\synth_0043.png,SALE 50% OFF,A sign with the text 'SALE 50% OFF',synthetic
+./data/synthetic\synth_0044.png,SALE,A sign with the text 'SALE',synthetic
+./data/synthetic\synth_0045.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
+./data/synthetic\synth_0046.png,EXIT,A sign with the text 'EXIT',synthetic
+./data/synthetic\synth_0047.png,COFFEE,A sign with the text 'COFFEE',synthetic
+./data/synthetic\synth_0048.png,WELCOME,A sign with the text 'WELCOME',synthetic
+./data/synthetic\synth_0049.png,EMERGENCY EXIT,A sign with the text 'EMERGENCY EXIT',synthetic

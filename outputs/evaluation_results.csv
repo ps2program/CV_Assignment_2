@@ -1,0 +1,9 @@
+prompt,ground_truth,extracted_text,character_accuracy,exact_match
+A sign with the text 'STOP',STOP,TAOO,0.25,False
+A sign with the text 'EXIT',EXIT,,0.0,False
+A sign with the text 'OPEN',OPEN,PEORD!,0.0,False
+A sign with the text 'CLOSED',CLOSED,,0.0,False
+A sign with the text 'WELCOME',WELCOME,LLOOVE,0.0,False
+A sign with the text 'SALE',SALE,,0.0,False
+A sign with the text 'DANGER',DANGER,,0.0,False
+A sign with the text 'PARKING',PARKING,PAKING PAPKING,0.14285714285714285,False
