@@ -1,51 +1,51 @@
 image_path,text,prompt,source
-./data/synthetic\synth_0000.png,RESTROOM,A sign with the text 'RESTROOM',synthetic
-./data/synthetic\synth_0001.png,DANGER,A sign with the text 'DANGER',synthetic
-./data/synthetic\synth_0002.png,NO SMOKING,A sign with the text 'NO SMOKING',synthetic
-./data/synthetic\synth_0003.png,PRIVATE,A sign with the text 'PRIVATE',synthetic
-./data/synthetic\synth_0004.png,DANGER,A sign with the text 'DANGER',synthetic
-./data/synthetic\synth_0005.png,DANGER,A sign with the text 'DANGER',synthetic
-./data/synthetic\synth_0006.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
-./data/synthetic\synth_0007.png,ENTRANCE,A sign with the text 'ENTRANCE',synthetic
-./data/synthetic\synth_0008.png,CLOSED,A sign with the text 'CLOSED',synthetic
-./data/synthetic\synth_0009.png,HOTEL,A sign with the text 'HOTEL',synthetic
-./data/synthetic\synth_0010.png,OPEN,A sign with the text 'OPEN',synthetic
-./data/synthetic\synth_0011.png,OUT OF ORDER,A sign with the text 'OUT OF ORDER',synthetic
-./data/synthetic\synth_0012.png,HELP,A sign with the text 'HELP',synthetic
-./data/synthetic\synth_0013.png,CAUTION,A sign with the text 'CAUTION',synthetic
-./data/synthetic\synth_0014.png,SALE 50% OFF,A sign with the text 'SALE 50% OFF',synthetic
-./data/synthetic\synth_0015.png,FIRE EXIT,A sign with the text 'FIRE EXIT',synthetic
-./data/synthetic\synth_0016.png,NO ENTRY,A sign with the text 'NO ENTRY',synthetic
-./data/synthetic\synth_0017.png,NO SMOKING,A sign with the text 'NO SMOKING',synthetic
-./data/synthetic\synth_0018.png,CLOSED,A sign with the text 'CLOSED',synthetic
-./data/synthetic\synth_0019.png,CAUTION,A sign with the text 'CAUTION',synthetic
-./data/synthetic\synth_0020.png,OPEN,A sign with the text 'OPEN',synthetic
-./data/synthetic\synth_0021.png,FIRE EXIT,A sign with the text 'FIRE EXIT',synthetic
-./data/synthetic\synth_0022.png,EXIT,A sign with the text 'EXIT',synthetic
-./data/synthetic\synth_0023.png,OPEN,A sign with the text 'OPEN',synthetic
-./data/synthetic\synth_0024.png,TICKET,A sign with the text 'TICKET',synthetic
-./data/synthetic\synth_0025.png,CAUTION,A sign with the text 'CAUTION',synthetic
-./data/synthetic\synth_0026.png,NO ENTRY,A sign with the text 'NO ENTRY',synthetic
-./data/synthetic\synth_0027.png,PHARMACY,A sign with the text 'PHARMACY',synthetic
-./data/synthetic\synth_0028.png,FLOOR 1,A sign with the text 'FLOOR 1',synthetic
-./data/synthetic\synth_0029.png,INFORMATION,A sign with the text 'INFORMATION',synthetic
-./data/synthetic\synth_0030.png,AVAILABLE,A sign with the text 'AVAILABLE',synthetic
-./data/synthetic\synth_0031.png,ENTRANCE,A sign with the text 'ENTRANCE',synthetic
-./data/synthetic\synth_0032.png,HOSPITAL,A sign with the text 'HOSPITAL',synthetic
-./data/synthetic\synth_0033.png,DANGER,A sign with the text 'DANGER',synthetic
-./data/synthetic\synth_0034.png,CLOSED,A sign with the text 'CLOSED',synthetic
-./data/synthetic\synth_0035.png,THANK YOU,A sign with the text 'THANK YOU',synthetic
-./data/synthetic\synth_0036.png,PLEASE WAIT,A sign with the text 'PLEASE WAIT',synthetic
-./data/synthetic\synth_0037.png,WELCOME,A sign with the text 'WELCOME',synthetic
-./data/synthetic\synth_0038.png,HOSPITAL,A sign with the text 'HOSPITAL',synthetic
-./data/synthetic\synth_0039.png,SALE 50% OFF,A sign with the text 'SALE 50% OFF',synthetic
-./data/synthetic\synth_0040.png,FLOOR 1,A sign with the text 'FLOOR 1',synthetic
-./data/synthetic\synth_0041.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
-./data/synthetic\synth_0042.png,OCCUPIED,A sign with the text 'OCCUPIED',synthetic
-./data/synthetic\synth_0043.png,SALE 50% OFF,A sign with the text 'SALE 50% OFF',synthetic
-./data/synthetic\synth_0044.png,SALE,A sign with the text 'SALE',synthetic
-./data/synthetic\synth_0045.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
-./data/synthetic\synth_0046.png,EXIT,A sign with the text 'EXIT',synthetic
-./data/synthetic\synth_0047.png,COFFEE,A sign with the text 'COFFEE',synthetic
-./data/synthetic\synth_0048.png,WELCOME,A sign with the text 'WELCOME',synthetic
-./data/synthetic\synth_0049.png,EMERGENCY EXIT,A sign with the text 'EMERGENCY EXIT',synthetic
+./data/synthetic\synth_0000.png,WIFI,A sign with the text 'WIFI',synthetic
+./data/synthetic\synth_0001.png,SHOP,A sign with the text 'SHOP',synthetic
+./data/synthetic\synth_0002.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
+./data/synthetic\synth_0003.png,KEEP OFF,A sign with the text 'KEEP OFF',synthetic
+./data/synthetic\synth_0004.png,SHOP,A sign with the text 'SHOP',synthetic
+./data/synthetic\synth_0005.png,ROOM 101,A sign with the text 'ROOM 101',synthetic
+./data/synthetic\synth_0006.png,PARK,A sign with the text 'PARK',synthetic
+./data/synthetic\synth_0007.png,WORLD,A sign with the text 'WORLD',synthetic
+./data/synthetic\synth_0008.png,BRIDGE,A sign with the text 'BRIDGE',synthetic
+./data/synthetic\synth_0009.png,FOOD,A sign with the text 'FOOD',synthetic
+./data/synthetic\synth_0010.png,PRIVATE,A sign with the text 'PRIVATE',synthetic
+./data/synthetic\synth_0011.png,LOVE,A sign with the text 'LOVE',synthetic
+./data/synthetic\synth_0012.png,PULL,A sign with the text 'PULL',synthetic
+./data/synthetic\synth_0013.png,POLICE,A sign with the text 'POLICE',synthetic
+./data/synthetic\synth_0014.png,ENTRANCE,A sign with the text 'ENTRANCE',synthetic
+./data/synthetic\synth_0015.png,HOSPITAL,A sign with the text 'HOSPITAL',synthetic
+./data/synthetic\synth_0016.png,WORLD,A sign with the text 'WORLD',synthetic
+./data/synthetic\synth_0017.png,LOVE,A sign with the text 'LOVE',synthetic
+./data/synthetic\synth_0018.png,RESTROOM,A sign with the text 'RESTROOM',synthetic
+./data/synthetic\synth_0019.png,WELCOME,A sign with the text 'WELCOME',synthetic
+./data/synthetic\synth_0020.png,WELCOME,A sign with the text 'WELCOME',synthetic
+./data/synthetic\synth_0021.png,WIFI,A sign with the text 'WIFI',synthetic
+./data/synthetic\synth_0022.png,CINEMA,A sign with the text 'CINEMA',synthetic
+./data/synthetic\synth_0023.png,CINEMA,A sign with the text 'CINEMA',synthetic
+./data/synthetic\synth_0024.png,GATE A,A sign with the text 'GATE A',synthetic
+./data/synthetic\synth_0025.png,FREE,A sign with the text 'FREE',synthetic
+./data/synthetic\synth_0026.png,GARAGE,A sign with the text 'GARAGE',synthetic
+./data/synthetic\synth_0027.png,WARNING,A sign with the text 'WARNING',synthetic
+./data/synthetic\synth_0028.png,CAUTION,A sign with the text 'CAUTION',synthetic
+./data/synthetic\synth_0029.png,COFFEE,A sign with the text 'COFFEE',synthetic
+./data/synthetic\synth_0030.png,NO ENTRY,A sign with the text 'NO ENTRY',synthetic
+./data/synthetic\synth_0031.png,WORLD,A sign with the text 'WORLD',synthetic
+./data/synthetic\synth_0032.png,SCHOOL,A sign with the text 'SCHOOL',synthetic
+./data/synthetic\synth_0033.png,HOSPITAL,A sign with the text 'HOSPITAL',synthetic
+./data/synthetic\synth_0034.png,ELEVATOR,A sign with the text 'ELEVATOR',synthetic
+./data/synthetic\synth_0035.png,CINEMA,A sign with the text 'CINEMA',synthetic
+./data/synthetic\synth_0036.png,GARAGE,A sign with the text 'GARAGE',synthetic
+./data/synthetic\synth_0037.png,OFFICE,A sign with the text 'OFFICE',synthetic
+./data/synthetic\synth_0038.png,PRIVATE,A sign with the text 'PRIVATE',synthetic
+./data/synthetic\synth_0039.png,FLOOR 1,A sign with the text 'FLOOR 1',synthetic
+./data/synthetic\synth_0040.png,BAKERY,A sign with the text 'BAKERY',synthetic
+./data/synthetic\synth_0041.png,CAFE,A sign with the text 'CAFE',synthetic
+./data/synthetic\synth_0042.png,HOTEL,A sign with the text 'HOTEL',synthetic
+./data/synthetic\synth_0043.png,CINEMA,A sign with the text 'CINEMA',synthetic
+./data/synthetic\synth_0044.png,BUS 42,A sign with the text 'BUS 42',synthetic
+./data/synthetic\synth_0045.png,MUSEUM,A sign with the text 'MUSEUM',synthetic
+./data/synthetic\synth_0046.png,GARAGE,A sign with the text 'GARAGE',synthetic
+./data/synthetic\synth_0047.png,CAFE,A sign with the text 'CAFE',synthetic
+./data/synthetic\synth_0048.png,HELLO,A sign with the text 'HELLO',synthetic
+./data/synthetic\synth_0049.png,ROOM 101,A sign with the text 'ROOM 101',synthetic
