@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:tc11.cvc.uab.es)",
+      "WebFetch(domain:mindee.github.io)",
+      "Bash(where:*)",
+      "Bash(winget install:*)",
+      "Bash(\"C:\\\\Program Files\\\\Tesseract-OCR\\\\tesseract.exe\" --version)",
+      "Bash(python -c:*)",
+      "Bash(\"C:\\\\Program Files\\\\Tesseract-OCR\\\\tesseract.exe\" \"C:\\\\Users\\\\harsh\\\\AppData\\\\Local\\\\Temp\\\\test_ocr.png\" stdout)"
+    ]
+  }
+}

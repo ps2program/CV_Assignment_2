@@ -1,0 +1,11 @@
+prompt,ground_truth,extracted_text,character_accuracy,exact_match
+A sign with the text 'STOP',STOP,TAD,0.0,False
+A sign with the text 'EXIT',EXIT,EIT,0.25,False
+A sign with the text 'OPEN',OPEN,OlE|,0.5,False
+A sign with the text 'CLOSED',CLOSED,"CLOSEE
+CEN",0.5,False
+A sign with the text 'WELCOME',WELCOME,,0.0,False
+A sign with the text 'SALE',SALE,SALE,1.0,True
+A sign with the text 'DANGER',DANGER,"DANGR
+DANG",0.4,False
+A sign with the text 'PARKING',PARKING,PPAKIIKT,0.375,False
